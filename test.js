@@ -10,10 +10,10 @@ const data = {
 };
 
 const image = [
-    'https://ipfs.io/ipfs/bafybeihpcu3oxrxtjtiaw4vhwjevoosnu2b4et35rbvaygmw7juub6xina',
-    'https://ipfs.io/ipfs/bafybeifa3f6swh7oadoucu56lfthbjlyenmm7wvtx42qjrisqjddxsigfe',
-    'https://ipfs.io/ipfs/bafybeifielsotzmvodns5gxelbanfkqflsnxeprbqjidrtinapj4swxsi4',
-    'https://ipfs.io/ipfs/bafybeidjq4uw4xhxz3tipmkuvsixyzqqwq7q2jiqfzo5ctbuvtzm45krkq',
+    'https://raw.githubusercontent.com/snp-labs/NftOwlMetaData/main/image/0.png',
+    'https://raw.githubusercontent.com/snp-labs/NftOwlMetaData/main/image/1.png',
+    'https://raw.githubusercontent.com/snp-labs/NftOwlMetaData/main/image/2.png',
+    'https://raw.githubusercontent.com/snp-labs/NftOwlMetaData/main/image/3.png',
 ]
 
 for (let i = 0; i < 10000; i++) {
