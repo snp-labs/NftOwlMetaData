@@ -2,6 +2,8 @@
     "name": "Azeroth owl NFT 1155",
     "description": "For Azeroth Wallet Beta test",
     "image": "https://ipfs.io/ipfs/bafybeidjq4uw4xhxz3tipmkuvsixyzqqwq7q2jiqfzo5ctbuvtzm45krkq",
+    "banner_image": "https://ipfs.io/ipfs/bafybeidjq4uw4xhxz3tipmkuvsixyzqqwq7q2jiqfzo5ctbuvtzm45krkq",
+    "featured_image": "https://ipfs.io/ipfs/bafybeidjq4uw4xhxz3tipmkuvsixyzqqwq7q2jiqfzo5ctbuvtzm45krkq",
     "external_link": "https://www.zkrypto.com/azeroth",
     "seller_fee_basis_points": 100, # Indicates a 1% seller fee.
     "fee_recipient": "0x0c414B1D8E9F79a38849b364726b56994bdEF18D" # Where seller fees will be paid to.
