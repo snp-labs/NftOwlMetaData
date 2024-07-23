@@ -1,10 +1,10 @@
 {
     "name": "owl NFT 721",
     "description": "For Beta test",
-    "image": "https://ipfs.io/ipfs/bafybeidjq4uw4xhxz3tipmkuvsixyzqqwq7q2jiqfzo5ctbuvtzm45krkq",
-    "banner_image": "https://ipfs.io/ipfs/bafybeidjq4uw4xhxz3tipmkuvsixyzqqwq7q2jiqfzo5ctbuvtzm45krkq",
-    "featured_image": "https://ipfs.io/ipfs/bafybeidjq4uw4xhxz3tipmkuvsixyzqqwq7q2jiqfzo5ctbuvtzm45krkq",
-    "external_link": "https://www.zkrypto.com/azeroth",
+    "image": "https://raw.githubusercontent.com/snp-labs/NftOwlMetaData/main/image/1.png",
+    "banner_image": "https://raw.githubusercontent.com/snp-labs/NftOwlMetaData/main/image/1.png",
+    "featured_image": "https://raw.githubusercontent.com/snp-labs/NftOwlMetaData/main/image/1.png",
+    "external_link": "https://www.zkrypto.com",
     "seller_fee_basis_points": 100, # Indicates a 1% seller fee.
     "fee_recipient": "0x0c414B1D8E9F79a38849b364726b56994bdEF18D" # Where seller fees will be paid to.
 }
